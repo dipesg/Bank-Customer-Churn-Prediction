@@ -1,0 +1,4 @@
+2022-03-18/19:33:28		Plotting Pie Chart.
+2022-03-18/19:33:29		Plotting Barplot of Catagorical features.
+2022-03-18/19:33:30		Plotting Boxplot of Numerical Features.
+2022-03-18/19:33:31		Doing Customer churn prediction visualization.

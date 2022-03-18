@@ -1,0 +1,55 @@
+2022-03-18/20:27:33		Building ANN model.
+2022-03-18/20:27:36		Compiling Model.
+2022-03-18/20:27:36		Fitting Model.
+2022-03-18/20:30:43		Building ANN model.
+2022-03-18/20:30:45		Compiling Model.
+2022-03-18/20:30:45		Fitting Model.
+2022-03-18/20:34:48		Building ANN model.
+2022-03-18/20:34:50		Compiling Model.
+2022-03-18/20:34:50		Fitting Model.
+2022-03-18/20:37:28		Evaluating Model.
+2022-03-18/20:37:28		Now Predicting.
+2022-03-18/20:38:21		Building ANN model.
+2022-03-18/20:38:24		Compiling Model.
+2022-03-18/20:38:24		Fitting Model.
+2022-03-18/20:41:04		Evaluating Model.
+2022-03-18/20:41:05		Now Predicting.
+2022-03-18/20:41:05		Converting our prediction to 0 and 1 to check accuracy.
+2022-03-18/20:41:05		Checking the accuracy..
+2022-03-18/20:41:05		Plotting our prediction.
+2022-03-18/21:04:41		Building ANN model.
+2022-03-18/21:04:44		Compiling Model.
+2022-03-18/21:04:44		Fitting Model.
+2022-03-18/21:08:10		Evaluating Model.
+2022-03-18/21:08:10		Now Predicting.
+2022-03-18/21:08:11		Converting our prediction to 0 and 1 to check accuracy.
+2022-03-18/21:08:11		Checking the accuracy..
+2022-03-18/21:08:11		Plotting our prediction.
+2022-03-18/21:10:12		Building ANN model.
+2022-03-18/21:10:14		Compiling Model.
+2022-03-18/21:10:14		Fitting Model.
+2022-03-18/21:12:53		Evaluating Model.
+2022-03-18/21:12:53		Now Predicting.
+2022-03-18/21:12:53		Converting our prediction to 0 and 1 to check accuracy.
+2022-03-18/21:12:53		Checking the accuracy..
+2022-03-18/21:12:53		Plotting our prediction.
+2022-03-18/22:12:54		Building ANN model.
+2022-03-18/22:12:56		Compiling Model.
+2022-03-18/22:12:56		Fitting Model.
+2022-03-18/22:14:40		Evaluating Model.
+2022-03-18/22:14:40		Now Predicting.
+2022-03-18/22:14:41		Converting our prediction to 0 and 1 to check accuracy.
+2022-03-18/22:14:41		Checking the accuracy..
+2022-03-18/22:14:41		Plotting our prediction.
+2022-03-18/22:37:55		Building ANN model.
+2022-03-18/22:37:57		Compiling Model.
+2022-03-18/22:37:57		Fitting Model.
+2022-03-18/22:40:49		Building ANN model.
+2022-03-18/22:43:24		Building ANN model.
+2022-03-18/22:43:25		Compiling Model.
+2022-03-18/22:43:25		Fitting Model.
+2022-03-18/22:53:12		Building random forest  model.
+2022-03-18/22:58:36		Tuning Random Forest Model.
+2022-03-18/23:00:13		Tuning Random Forest Model.
+2022-03-18/23:02:03		Building random forest  model.
+2022-03-18/23:05:03		Building random forest  model.

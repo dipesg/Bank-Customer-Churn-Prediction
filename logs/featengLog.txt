@@ -1,0 +1,91 @@
+2022-03-18/19:57:53		Balancing salary by estimated salary.
+2022-03-18/19:57:53		Balancing Tenure by age.
+2022-03-18/19:57:53		Printing Catagorical Variables.
+2022-03-18/19:57:53		Performing Label Encoding.
+2022-03-18/19:57:53		Performing OneHot Encoding.
+2022-03-18/19:57:53		Performing Normalization.
+2022-03-18/20:30:42		Balancing salary by estimated salary.
+2022-03-18/20:30:43		Balancing Tenure by age.
+2022-03-18/20:30:43		Printing Catagorical Variables.
+2022-03-18/20:30:43		Performing Label Encoding.
+2022-03-18/20:30:43		Performing OneHot Encoding.
+2022-03-18/20:30:43		Performing Normalization.
+2022-03-18/20:34:47		Balancing salary by estimated salary.
+2022-03-18/20:34:48		Balancing Tenure by age.
+2022-03-18/20:34:48		Printing Catagorical Variables.
+2022-03-18/20:34:48		Performing Label Encoding.
+2022-03-18/20:34:48		Performing OneHot Encoding.
+2022-03-18/20:34:48		Performing Normalization.
+2022-03-18/20:38:21		Balancing salary by estimated salary.
+2022-03-18/20:38:21		Balancing Tenure by age.
+2022-03-18/20:38:21		Printing Catagorical Variables.
+2022-03-18/20:38:21		Performing Label Encoding.
+2022-03-18/20:38:21		Performing OneHot Encoding.
+2022-03-18/20:38:21		Performing Normalization.
+2022-03-18/21:03:57		Balancing salary by estimated salary.
+2022-03-18/21:04:41		Balancing salary by estimated salary.
+2022-03-18/21:04:41		Balancing Tenure by age.
+2022-03-18/21:04:41		Printing Catagorical Variables.
+2022-03-18/21:04:41		Performing Label Encoding.
+2022-03-18/21:04:41		Performing OneHot Encoding.
+2022-03-18/21:04:41		Performing Normalization.
+2022-03-18/21:10:11		Balancing salary by estimated salary.
+2022-03-18/21:10:11		Balancing Tenure by age.
+2022-03-18/21:10:12		Printing Catagorical Variables.
+2022-03-18/21:10:12		Performing Label Encoding.
+2022-03-18/21:10:12		Performing OneHot Encoding.
+2022-03-18/21:10:12		Performing Normalization.
+2022-03-18/22:12:54		Balancing salary by estimated salary.
+2022-03-18/22:12:54		Balancing Tenure by age.
+2022-03-18/22:12:54		Printing Catagorical Variables.
+2022-03-18/22:12:54		Performing Label Encoding.
+2022-03-18/22:12:54		Performing OneHot Encoding.
+2022-03-18/22:12:54		Performing Normalization.
+2022-03-18/22:37:55		Balancing salary by estimated salary.
+2022-03-18/22:37:55		Balancing Tenure by age.
+2022-03-18/22:37:55		Printing Catagorical Variables.
+2022-03-18/22:37:55		Performing Label Encoding.
+2022-03-18/22:37:55		Performing OneHot Encoding.
+2022-03-18/22:37:55		Performing Normalization.
+2022-03-18/22:40:49		Balancing salary by estimated salary.
+2022-03-18/22:40:49		Balancing Tenure by age.
+2022-03-18/22:40:49		Printing Catagorical Variables.
+2022-03-18/22:40:49		Performing Label Encoding.
+2022-03-18/22:40:49		Performing OneHot Encoding.
+2022-03-18/22:40:49		Performing Normalization.
+2022-03-18/22:43:24		Balancing salary by estimated salary.
+2022-03-18/22:43:24		Balancing Tenure by age.
+2022-03-18/22:43:24		Printing Catagorical Variables.
+2022-03-18/22:43:24		Performing Label Encoding.
+2022-03-18/22:43:24		Performing OneHot Encoding.
+2022-03-18/22:43:24		Performing Normalization.
+2022-03-18/22:53:12		Balancing salary by estimated salary.
+2022-03-18/22:53:12		Balancing Tenure by age.
+2022-03-18/22:53:12		Printing Catagorical Variables.
+2022-03-18/22:53:12		Performing Label Encoding.
+2022-03-18/22:53:12		Performing OneHot Encoding.
+2022-03-18/22:53:12		Performing Normalization.
+2022-03-18/22:58:36		Balancing salary by estimated salary.
+2022-03-18/22:58:36		Balancing Tenure by age.
+2022-03-18/22:58:36		Printing Catagorical Variables.
+2022-03-18/22:58:36		Performing Label Encoding.
+2022-03-18/22:58:36		Performing OneHot Encoding.
+2022-03-18/22:58:36		Performing Normalization.
+2022-03-18/23:00:12		Balancing salary by estimated salary.
+2022-03-18/23:00:13		Balancing Tenure by age.
+2022-03-18/23:00:13		Printing Catagorical Variables.
+2022-03-18/23:00:13		Performing Label Encoding.
+2022-03-18/23:00:13		Performing OneHot Encoding.
+2022-03-18/23:00:13		Performing Normalization.
+2022-03-18/23:02:03		Balancing salary by estimated salary.
+2022-03-18/23:02:03		Balancing Tenure by age.
+2022-03-18/23:02:03		Printing Catagorical Variables.
+2022-03-18/23:02:03		Performing Label Encoding.
+2022-03-18/23:02:03		Performing OneHot Encoding.
+2022-03-18/23:02:03		Performing Normalization.
+2022-03-18/23:05:03		Balancing salary by estimated salary.
+2022-03-18/23:05:03		Balancing Tenure by age.
+2022-03-18/23:05:03		Printing Catagorical Variables.
+2022-03-18/23:05:03		Performing Label Encoding.
+2022-03-18/23:05:03		Performing OneHot Encoding.
+2022-03-18/23:05:03		Performing Normalization.
